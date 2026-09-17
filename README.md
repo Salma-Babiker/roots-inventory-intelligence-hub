@@ -1,4 +1,4 @@
-# Roots Inventory Intelligence Hub
+# Roots_Inventory_ analysis.ipynb
 Project Overview
 
 The Roots Inventory Intelligence Hub is a predictive analytics solution designed to address inventory management challenges in retail.
